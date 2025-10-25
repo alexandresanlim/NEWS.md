@@ -14,9 +14,9 @@
 
 -->
 
-## Google News Technology Topic
+### Google News
 
-<img scr='https://img.shields.io/badge/google_news-tecnology_topic-blue?style=social&logo=googlenews' />
+<img src='https://img.shields.io/badge/google_news-tecnology_topic-blue?style=social&logo=googlenews' />
 
 | Title | Pub Date |
 |---|---|
@@ -30,6 +30,9 @@
 
 ## DEV.TO
 
+<img src='https://img.shields.io/badge/dev.to-home_page-black?style=social&logo=devdotto' />
+
+
 | Title  | Pub Date  |
 |---|---|
 | <a href=""><img src='https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fdev.to%2Frss&query=%2F%2Fchannel%2Fitem%5B1%5D%2Ftitle&style=for-the-badge&label=1&color=%230A0A0A' /></a>  | <img src='https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fdev.to%2Frss&query=%2F%2Fchannel%2Fitem%5B1%5D%2FpubDate&style=for-the-badge&label=at&color=%230A0A0A' />  |
@@ -40,6 +43,8 @@
 
 
 ## Hacker News
+
+<img src='https://img.shields.io/badge/hacker_news-home_page-black?style=social' />
 
 | Title | Pub Date |
 |---|---|
