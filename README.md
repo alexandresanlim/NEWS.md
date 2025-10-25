@@ -16,6 +16,8 @@
 
 ## Google News Technology Topic
 
+<img scr='https://img.shields.io/badge/google_news-tecnology_topic-blue?style=social&logo=googlenews' />
+
 | Title | Pub Date |
 |---|---|
 | <a href=""><img src='https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fnews.google.com%2Frss%2Ftopics%2FCAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB%3Fhl%3Den-US%26gl%3DUS%26ceid%3DUS%253Aen&query=%2F%2Fchannel%2Fitem%5B1%5D%2Ftitle&style=for-the-badge&label=1' /></a> | <img src='https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fnews.google.com%2Frss%2Ftopics%2FCAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB%3Fhl%3Den-US%26gl%3DUS%26ceid%3DUS%253Aen&query=%2F%2Fchannel%2Fitem%5B1%5D%2FpubDate&style=for-the-badge&label=at' /> |
