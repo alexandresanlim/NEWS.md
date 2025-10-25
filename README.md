@@ -41,7 +41,7 @@ Please, consider <a href="https://github.com/sponsors/alexandresanlim">sponsor t
 
 ### Google News
 
-<img src='https://img.shields.io/badge/google_news-tecnology_topic-blue?style=social&logo=googlenews' />
+<a href='https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen'><img src='https://img.shields.io/badge/google_news-tecnology_topic-blue?style=social&logo=googlenews' /></a>
 
 | Title | Pub Date |
 |---|---|
@@ -55,7 +55,7 @@ Please, consider <a href="https://github.com/sponsors/alexandresanlim">sponsor t
 
 ### DEV.TO
 
-<img src='https://img.shields.io/badge/dev.to-home_page-black?style=social&logo=devdotto' />
+<a href='https://dev.to/'><img src='https://img.shields.io/badge/dev.to-home_page-black?style=social&logo=devdotto' /></a>
 
 
 | Title  | Pub Date  |
@@ -69,7 +69,7 @@ Please, consider <a href="https://github.com/sponsors/alexandresanlim">sponsor t
 
 ### Hacker News
 
-<img src='https://img.shields.io/badge/hacker_news-home_page-black?style=social' />
+<a href='https://news.ycombinator.com/'><img src='https://img.shields.io/badge/hacker_news-home_page-black?style=social' /></a>
 
 | Title | Pub Date |
 |---|---|
