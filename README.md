@@ -1,4 +1,29 @@
-# NEWS.md
+
+<!--
+<p align='center'>
+ <a href='https://github.com/sponsors/alexandresanlim'>
+  <img src='https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/sponsors/sponsor.png?raw=true' width=150 />
+ </a>
+</p>
+
+ <p align='center'>
+Please, consider <a href="https://github.com/sponsors/alexandresanlim">sponsor this project</a> ❤️
+</p>
+-->
+
+<h1 align='center'>
+  📰 Welcome! NEWS.md
+</h1>
+
+<p align='center'>
+  A rss reader on GitHub for better tecnology's news
+</p>
+
+<p align='center'>
+  <a href="https://github.com/sponsors/alexandresanlim"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
+  &nbsp;
+  <a href="https://github.com/alexandresanlim/NEWS.md/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alexandresanlim/NEWS.md?style=for-the-badge" /></a>
+</p>
 
 <!-- 
 
